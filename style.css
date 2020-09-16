@@ -46,3 +46,20 @@ p {
 
 }
 
+#pirmMygt {
+    background-color: green;
+    padding: 5px;
+    border-style: double;
+}
+
+#antrMygt {
+    background-color: navajowhite;
+    padding: 5px;
+    border-style: double;
+}
+#trecMygt {
+    background-color: crimson;
+    padding: 5px;
+    border-style: double;
+
+}
